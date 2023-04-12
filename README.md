@@ -33,7 +33,7 @@ Download and install MySQL 5.5.62
 
 Open IIS as an Admin and register PHP from within IIS
 
-Install osTicket v1.15.8
+Made osTicket v1.15.8
 
 Download and install HeidiSQL
 
@@ -84,7 +84,7 @@ Next we want to download the following files "VC redirect, MySQL, OSTicket". We'
 <p>
 <img src="https://i.imgur.com/5ujcuhI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
-Now that OSTicket is installed we want to open it inside IIS. Open IIS back up hit sites then osTicket on the right side select the "browse 80" and OS ticket should open. Now that it's open we need to enable some programs that are off inside of osticket. We're going to enable the following "php_imap.dll, php_intl.dll php_opcache.dll" Once that's done we want to rename our osticket sample file to osticket-config.
+Now that OSTicket is made we want to open it inside IIS. Open IIS back up hit sites then osTicket on the right side select the "browse 80" and OS ticket should open. Now that it's open we need to enable some programs that are off inside of osticket. We're going to enable the following "php_imap.dll, php_intl.dll php_opcache.dll" Once that's done we want to rename our osticket sample file to osticket-config.
 
 
 <p>
