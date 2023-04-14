@@ -102,6 +102,6 @@ For the next steps right click on the osticket-config file and hit propteries. W
 
 Download HediSQL and now that it's downloaded we're going to create a database. Create a new session and the user name is "root" and make a password. Connect the session then make a database called "os ticket".
 
-Finish up setting osTicket now that we have a database. Inside osTicket set up put in "osTicket" which we created from Hedi, use the user name "root" and then enter in whatever password you used. Select continue and now you've succesfully made OSTicket!
+Finish up setting osTicket now that we have a database. Inside osTicket set up put in "osTicket" which we created from Hedi, use the user name "root" and then enter in whatever password you used, select continue.
 
-Congrats!!! 
+<h2>You've successfully made osTicket. Congrats!</h2>
